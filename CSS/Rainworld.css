@@ -37,11 +37,12 @@ header {
 /*Normal font for text etc*/
 p, li {
   font-family: Arial;
-  font-size: 130%;
+  font-size: 160%;
 }
 .image-container {
   text-align: center;
 }
 h2 {
   margin-top: 0;
+  font-size: 139%;
 }
