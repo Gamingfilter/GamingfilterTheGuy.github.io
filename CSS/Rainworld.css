@@ -48,10 +48,13 @@ h2 {
 }
 .image {
   width: 40%;
+  max-width: 400px;
+}
+.foodpoint {
+  width:10%;
   max-width: 100px;
 }
-
 .image2 {
-  max-width: 500px;
+  max-width: 700px;
   width: 60%;
 }
