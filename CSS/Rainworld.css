@@ -46,3 +46,12 @@ h2 {
   margin-top: 0;
   font-size: 139%;
 }
+.image {
+  width: 40%;
+  max-width: 100px;
+}
+
+.image2 {
+  max-width: 500px;
+  width: 60%;
+}
