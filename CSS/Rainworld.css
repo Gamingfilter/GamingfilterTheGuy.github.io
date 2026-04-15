@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif; /*Font*/
+  margin: 0; /*lengte tussen andere dingen*/
+  padding: 0; /*Space between border*/
+  background-color: #0d1b10; /*Background kleur*/
+}
+/*For the header*/
+header {
+  background-color: #1d0b07;
+  color: #eeedf0; /*tekstkleur*/
+  text-align: center; /*text in het midden*/
+  padding: 10px 0;
+}
+.container {
+  max-width: 90%;
+  width: 900px;
+  margin: 0 auto;
+  padding: 35px;
+}
+
+.content {
+  background-color: #effcf0;
+  padding: 35px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  opacity: 90%
+}
+/*Make it go to the center*/
+.center {
+ margin: 0 auto;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+}
+/*Normal font for text etc*/
+p, li {
+  font-family: Arial;
+  font-size: 130%;
+}
+.image-container {
+  text-align: center;
+}
+h2 {
+  margin-top: 0;
+}
